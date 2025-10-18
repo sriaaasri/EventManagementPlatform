@@ -3,8 +3,8 @@ spring:
     name: even-management-application
   datasource:
     url: jdbc:mysql://localhost:3306/event_management
-    username: <Your database username>
-    password: <Your database password>
+    username: ${DATABASE_USER}
+    password: ${DATABASE_PASSWORD}
   jpa:
     show-sql: true
     generate-ddl: true

@@ -5,6 +5,7 @@ Frontend/node_modules
 
 #Backend module
 Backend/target
+.env
 
 #OS files
 .DS_Store
