@@ -1,0 +1,10 @@
+.vscode
+
+#Frontend module
+Frontend/node_modules
+
+#Backend module
+Backend/target
+
+#OS files
+.DS_Store
