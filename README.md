@@ -120,13 +120,12 @@ now backend and keycloak containers will be up and running.
 🧩 Folder Structure
 
 event-ticket-platform/
-│
-├── backend/         # Spring Boot application
-│   ├── src/
+├── backend/                 # Spring Boot application
+│   ├── src/                 
 │   ├── pom.xml
 │   └── Dockerfile
 │
-├── frontend/        # React.js application
+├── frontend/                # React.js application
 │   ├── src/
 │   ├── package.json
 │   └── Dockerfile
