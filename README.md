@@ -9,7 +9,6 @@ A web-based event management system that enables organizers to create events, ma
 ✅ Acceptance Criteria
 ⚙️ Tech Stack
 🚀 How to Run
-🧩 Folder Structure
 📈 Future Enhancements
 📄 License
 
@@ -115,22 +114,6 @@ docker build -t event .
 docker compose up -d
 
 now backend and keycloak containers will be up and running. 
-
-
-🧩 Folder Structure
-
-event-ticket-platform/
-    backend/           # Spring Boot application
-        src/                 
-        pom.xml
-        Dockerfile
-    frontend/           # React.js application
-        src/
-        package.json
-        Dockerfile
-    docker-compose.yml
-    README.md
-
 
 📈 Future Enhancements
 Email notifications for ticket purchases
