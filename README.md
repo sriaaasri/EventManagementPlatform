@@ -1,7 +1,7 @@
 🎟️ Event Ticket Platform
 
 A web-based event management system that enables organizers to create events, manage ticket sales, and generate QR-coded tickets for attendees — streamlining event creation, ticket distribution, and on-site validation.
-
+ 
 📖 Table of Contents:
 📜 Project Summary
 📘 Key Definitions
